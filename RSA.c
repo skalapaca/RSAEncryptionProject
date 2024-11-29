@@ -1,6 +1,13 @@
 /*
     Steven Kalapaca
     RSA Encryption Project
+
+    TO-DO
+    -Create random prime starting numbers
+    -Allow for the encryption of strings using ASCII values
+    -Handle large number effectivly using an array
+    -Create a more efficient modular inverse function
+    -Sperate the public and private keys
 */
 
 #include <stdio.h>
