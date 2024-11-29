@@ -1,6 +1,5 @@
 /*
-    Steven Kalapaca, imz429
-    CS 3333 Mathematical Foundations
+    Steven Kalapaca
     RSA Encryption Project
 */
 
